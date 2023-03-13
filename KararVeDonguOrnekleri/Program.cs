@@ -97,7 +97,7 @@ namespace KararVeDonguOrnekleri
             
             Console.ReadLine();
 
-
+            //durmus
 
 
 
