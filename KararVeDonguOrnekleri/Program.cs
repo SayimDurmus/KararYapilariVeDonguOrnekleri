@@ -98,6 +98,7 @@ namespace KararVeDonguOrnekleri
             Console.ReadLine();
 
             //durmus
+            //Bu satır durmus tarafından yazıldı
 
 
 
