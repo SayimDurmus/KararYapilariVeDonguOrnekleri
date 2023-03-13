@@ -99,6 +99,7 @@ namespace KararVeDonguOrnekleri
 
             //durmus
             //Bu satır durmus tarafından yazıldı
+            //Dursay yeni gelistirme
 
 
 
